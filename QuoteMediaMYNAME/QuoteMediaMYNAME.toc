@@ -1,0 +1,12 @@
+## Title: QuoteMediaMYNAME Sounds
+## Version: 1.0.0
+## Notes: Media package for KQuote, WoWQuote2 and SoundDelivery
+## Notes-deDE: MediaAddon für KQuote, WoWQuote2 und SoundDelivery
+## Interface: 70300
+##
+## Author: Selensija@Eredar
+##
+## OptionalDeps: WoWQuote2, KQuote, SoundDelivery
+##
+
+QuoteMediaMYNAME.lua
